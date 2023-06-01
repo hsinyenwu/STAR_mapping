@@ -1,5 +1,5 @@
 ### STAR_mapping
-[Manual](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjxpeSS36L_AhViFVkFHYAgApkQFnoECBAQAQ&url=https%3A%2F%2Fraw.githubusercontent.com%2Falexdobin%2FSTAR%2Fd14a0a992f94ba3a64c26dd08ac58e2b4ab134f3%2Fdoc%2FSTARmanual.pdf&usg=AOvVaw0_N6V0i7zVO0D7jpRPqpOX)
+[Manual for STAR 2.7.9a](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjxpeSS36L_AhViFVkFHYAgApkQFnoECBAQAQ&url=https%3A%2F%2Fraw.githubusercontent.com%2Falexdobin%2FSTAR%2Fd14a0a992f94ba3a64c26dd08ac58e2b4ab134f3%2Fdoc%2FSTARmanual.pdf&usg=AOvVaw0_N6V0i7zVO0D7jpRPqpOX)
 
 Here is an example for mapping one sample:
 Step1 generating index:
