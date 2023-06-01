@@ -165,3 +165,11 @@ echo ---------
 
 scontrol show job ${SLURM_JOBID}
 ```
+### Convert bam to fastq (for Kallisto)
+```
+module purge
+module load GCC/10.2.0
+module load BEDTools/2.30.0
+
+bamToFastq -i /xxx/$Input.bam -fq /xxx/$Input.r1.fastq -fq2 /xxx/$Input.r2.fastq
+```
