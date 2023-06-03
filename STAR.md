@@ -7,7 +7,7 @@ Here is an example for mapping one sample (i.e., sample D123567):
 ### Step1 generating index:
 ```
 #!/bin/bash -l
-#SBATCH -n 12 --time=00:30:00 --mem=30gb
+#SBATCH -n 12 -N 1 --time=00:30:00 --mem=30gb
 #SBATCH -J STAR_index
 #SBATCH -o STAR_RNA_Ribo_index.out
 #SBATCH -e STAR_RNA_Ribo_index.err
